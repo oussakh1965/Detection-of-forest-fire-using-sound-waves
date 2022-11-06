@@ -1,0 +1,41 @@
+@inproceedings{evangelista2020classification,
+  title={Classification of Abnormal Heart Sounds with Machine Learning},
+  author={Evangelista, Erin B and Guajardo, Fabiana and Ning, Taikang},
+  booktitle={2020 15th IEEE International Conference on Signal Processing (ICSP)},
+  volume={1},
+  pages={285--288},
+  year={2020},
+  organization={IEEE}
+}
+@inproceedings{go2021crime,
+  title={Crime Prevention System: Crashing Window Sound Detection Using AI Processor},
+  author={Go, Kwang Hyun and Han, Chang Yeop and Cho, Kwon Neung and Lee, Seung Eun},
+  booktitle={2021 IEEE International Conference on Consumer Electronics (ICCE)},
+  pages={1--2},
+  year={2021},
+  organization={IEEE}
+}
+@inproceedings{xiang2010evaluation,
+  title={Evaluation of sound classification algorithms for hearing aid applications},
+  author={Xiang, JuanJuan and McKinney, Martin F and Fitz, Kelly and Zhang, Tao},
+  booktitle={2010 IEEE international conference on acoustics, speech and signal processing},
+  pages={185--188},
+  year={2010},
+  organization={IEEE}
+}
+@inproceedings{agarwal2021security,
+  title={Security Threat Sounds Classification using Neural Network},
+  author={Agarwal, Shivam and Khatter, Kiran and Relan, Devanjali},
+  booktitle={2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)},
+  pages={690--694},
+  year={2021},
+  organization={IEEE}
+}
+@inproceedings{tran2009sound,
+  title={Sound event classification based on feature integration, recursive feature elimination and structured classification},
+  author={Tran, Huy Dat and Li, Haizhou},
+  booktitle={2009 IEEE International Conference on Acoustics, Speech and Signal Processing},
+  pages={177--180},
+  year={2009},
+  organization={IEEE}
+}
